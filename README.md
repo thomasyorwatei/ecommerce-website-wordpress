@@ -95,14 +95,6 @@
 ![Product Page](images/product-page.png)
 *Product listing page showing 5+ products with images, prices, and descriptions*
 
-### About Page
-![About Page](images/about-page.png)
-*About page with store description and mission*
-
-### Contact Page
-![Contact Page](images/contact-page.png)
-*Contact page with form, email, phone, and address*
-
 ### Cart Page
 ![Cart Page](images/cart-page.png)
 *Shopping cart with add-to-cart interaction and total calculation*
